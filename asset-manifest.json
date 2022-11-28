@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16393319.css",
+    "main.js": "/static/js/main.412334fc.js",
+    "static/js/787.161ebaff.chunk.js": "/static/js/787.161ebaff.chunk.js",
+    "static/media/kosmos.jpg": "/static/media/kosmos.6170b82dc221dfeeb786.jpg",
+    "index.html": "/index.html",
+    "main.16393319.css.map": "/static/css/main.16393319.css.map",
+    "main.412334fc.js.map": "/static/js/main.412334fc.js.map",
+    "787.161ebaff.chunk.js.map": "/static/js/787.161ebaff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16393319.css",
+    "static/js/main.412334fc.js"
+  ]
+}
