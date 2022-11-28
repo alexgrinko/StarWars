@@ -2,7 +2,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: #000;
-    background-image: url(/static/media/kosmos.6170b82dc221dfeeb786.jpg);
+    background-image: url(kosmos.jpg);
     background-size: cover;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     margin: 0
