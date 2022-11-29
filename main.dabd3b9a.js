@@ -4851,7 +4851,7 @@
                     return c(this, n)
                 }
             }
-            var d = n.p + "sw_logo.1803889dcddb63cbd88b.png",
+            var d = "sw_logo.1803889dcddb63cbd88b.png",
                 p = n(184);
             var h = function() { return (0, p.jsxs)("header", { className: "header", children: [(0, p.jsx)("div", { className: "header__logo", children: (0, p.jsx)("a", { href: "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B", children: (0, p.jsx)("img", { src: d, alt: "\u043b\u043e\u0433\u043e\u0442\u0438\u043f" }) }) }), (0, p.jsx)("nav", { children: (0, p.jsxs)("ul", { className: "header__list", children: [(0, p.jsx)("li", { className: "header__item", children: (0, p.jsx)("a", { href: "#", children: "\u041f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0438" }) }), (0, p.jsx)("li", { className: "header__item", children: (0, p.jsx)("a", { href: "#", children: "\u041f\u043b\u0430\u043d\u0435\u0442\u044b" }) }), (0, p.jsx)("li", { className: "header__item", children: (0, p.jsx)("a", { href: "#", children: "\u0417\u0432\u0435\u0437\u0434\u043e\u043b\u0435\u0442\u044b" }) })] }) })] }) };
 
@@ -5231,7 +5231,7 @@
                         }
                     }, { key: "render", value: function() { var e = this.state.peopleList; if (!e) return (0, p.jsx)("div", { className: "select-list", children: (0, p.jsx)(b, {}) }); var t = this.renderItems(e); return (0, p.jsx)("ul", { className: "select-list", children: t }) } }]), n
                 }(e.Component),
-                k = n.p + "person.6d89f5ce69c40034f35a.png",
+                k = "person.6d89f5ce69c40034f35a.png",
                 S = function(e) {
                     i(n, e);
                     var t = f(n);
@@ -5279,7 +5279,7 @@
                     }
                     return l(n, [{ key: "render", value: function() { return (0, p.jsxs)("div", { className: "page-main", children: [(0, p.jsx)(w, { onItemSelected: this.onPersonSelected }), (0, p.jsx)(S, { personId: this.state.selectedPerson })] }) } }]), n
                 }(e.Component),
-                _ = n.p + "clone.ae81b8beabe8f8e67262.png",
+                _ = "clone.ae81b8beabe8f8e67262.png",
                 E = function(e) {
                     i(n, e);
                     var t = f(n);
