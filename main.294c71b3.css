@@ -490,6 +490,10 @@ img {
 }
 
 @media only screen and (max-width:680px) {
+    .planet-block {
+        margin: 0;
+        padding: 0
+    }
     .planet {
         flex-wrap: wrap;
         padding: 5px
@@ -497,7 +501,7 @@ img {
     .planet__img {
         border-radius: 10px;
         margin: 20px auto;
-        width: 300px
+        width: 260px
     }
     .planet__item {
         width: 90%
@@ -522,6 +526,3 @@ img {
         display: none
     }
 }
-
-
-/*# sourceMappingURL=main.294c71b3.css.map*/
