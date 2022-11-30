@@ -5252,7 +5252,7 @@
                     }, {
                         key: "render",
                         value: function() {
-                            if (!this.state.person) return (0, p.jsxs)("div", { className: "select-list-page persone_img-flex", children: [(0, p.jsx)("p", { children: "\u0412\u044b\u0431\u0435\u0440\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430 \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430." }), (0, p.jsx)("img", { className: "persone_img", src: k, alt: "" })] });
+                            if (!this.state.person) return (0, p.jsxs)("div", { className: "select-list-page persone_img-flex", children: [(0, p.jsx)("p", { children: "\u0412\u044b\u0431\u0435\u0440\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u0438\u0437 \u0441\u043f\u0438\u0441\u043a\u0430." }), (0, p.jsx)("img", { className: "persone_img", src: k, alt: "" })] });
                             var e = this.state.person,
                                 t = e.id,
                                 n = e.name,
